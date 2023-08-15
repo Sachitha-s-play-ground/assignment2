@@ -1,0 +1,4 @@
+Task 1.
+Statistically Typed Languages are the programming languages that checking type at the compile
+time, while Dynamically Typed Languages are the programming languages that checking type at the
+run time.
