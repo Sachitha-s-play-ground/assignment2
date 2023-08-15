@@ -71,3 +71,8 @@ backward compatibility.
 
 Task9
 because they don’t lose information while narrowing
+
+Task10.
+When check in to the chart it have to go through a path of short>int>char which the first step is a
+widening primitive conversion and the second step is a narrowing primitive conversion. (but
+actually it happens directly as short>char)
