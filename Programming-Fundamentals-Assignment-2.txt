@@ -51,3 +51,11 @@ final int Const1 = 10*Math.Random();
 compile time constant- the value of the constant is known when the project compiles.
 Example
 final int Const2 =20;
+
+Task6.
+Implicit conversions happens automatically and explicit conversions are not happening
+automatically without external forcing (casting the target type at the end ).
+conditions to met to happen an implicit narrowing primitive conversion
+1. an assigning context
+2. a compile time constant
+3. within the bit range of target type
