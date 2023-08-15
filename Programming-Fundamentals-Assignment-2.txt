@@ -63,3 +63,8 @@ conditions to met to happen an implicit narrowing primitive conversion
 Task7.
 The but structure if the float is different from long. Even the number of but is lesser, float can store
 larger range of values, but with a less accuracy.
+
+Task8.
+The choice of using int as the default data type for integer literals and double as the default data
+type for floating-point literals in Java is primarily based on balancing practicality, efficiency, and
+backward compatibility.
