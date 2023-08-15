@@ -43,3 +43,11 @@ Primitive widening conversions are converting a variable with a lesser bits to a
 higher bits. These happen implicitly.
 Byte>short>int>long
 float>double
+
+Task 5.
+run time constant- the value of the constant is known when the project runs
+example
+final int Const1 = 10*Math.Random();
+compile time constant- the value of the constant is known when the project compiles.
+Example
+final int Const2 =20;
