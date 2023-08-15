@@ -59,3 +59,7 @@ conditions to met to happen an implicit narrowing primitive conversion
 1. an assigning context
 2. a compile time constant
 3. within the bit range of target type
+
+Task7.
+The but structure if the float is different from long. Even the number of but is lesser, float can store
+larger range of values, but with a less accuracy.
