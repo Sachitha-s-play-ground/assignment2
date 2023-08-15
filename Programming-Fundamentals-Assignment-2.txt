@@ -37,3 +37,9 @@ long myLong = 151316;
 long myNextLong = myLong;
 here firstly, a value is assigned to number and that number is assigned to another variable with same
 type.
+
+Task4.
+Primitive widening conversions are converting a variable with a lesser bits to a variable with a
+higher bits. These happen implicitly.
+Byte>short>int>long
+float>double
