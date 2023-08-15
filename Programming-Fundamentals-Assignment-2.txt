@@ -25,3 +25,15 @@ Case Sensitive-Insensitive – mixed with case insensitive and case sensitive.
 Example
 treat myVariable and MyVariable as different and treat if and IF as same
 JavaScript is Case Sensitive-Insensitive
+
+Task3.
+Identity Conversion is a type of type conversion that involves assigning a value to a variable of the
+same type, or passing an argument to a method where the argument's type matches the parameter
+type exactly.
+Example
+int number = 42;
+int anotherNubmer = number;
+long myLong = 151316;
+long myNextLong = myLong;
+here firstly, a value is assigned to number and that number is assigned to another variable with same
+type.
