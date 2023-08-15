@@ -2,3 +2,26 @@ Task 1.
 Statistically Typed Languages are the programming languages that checking type at the compile
 time, while Dynamically Typed Languages are the programming languages that checking type at the
 run time.
+Strongly Typed Languages are the programming languages that consider the type of data strictly
+while Loosely Typed Languages are the programming languages that don’t consider the type of data
+strictly.
+Java is a statistically typed and strongly typed programming language
+
+
+Task2.
+Case sensitive – upper case and lower case letters in identifiers are treated as two different
+identifiers.
+Example
+int variable = 42;
+int Variable = 23;
+System.out.println(variable);
+System.out.println(Variable);
+here, no errors and gives values separately.
+Java is case sensitive
+Case insensitive – it does not differentiate between uppercase and lowercase.
+Example treat variable / Variable / VARIABLE as same.
+SQL is case insensitive
+Case Sensitive-Insensitive – mixed with case insensitive and case sensitive.
+Example
+treat myVariable and MyVariable as different and treat if and IF as same
+JavaScript is Case Sensitive-Insensitive
